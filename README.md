@@ -2,5 +2,5 @@
 
 # ClassActivity -0
 
-Create Java Project ClassList and Pushed it to github
+Created Java Project ClassList and Pushed it to github
 
